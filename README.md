@@ -1,4 +1,4 @@
-# This script enables you to complete Forza Horizon 4 Star Card 
+# This script enables you to complete Forza Horizon 4 Star Card Superstar Creator
 AutoHotKey v2 required. 
 
 Make sure tunes/designs/photos are in an unshared state. 
